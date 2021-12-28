@@ -163,7 +163,7 @@
                     <h4>Dreamcatcher</h4>
                     <div class="d-flex">
                         <div class="tanggal">10-11-2021</div>
-                        <label class="ps-2 pb-2 text-primary">Created By Galang</label>
+                        <label class="ps-2 pb-2 text-primary">Created By RabbitZ</label>
                     </div>
                     <p>Dreamcatcher (bahasa Korea: 드림캐쳐), sebelumnya dikenal sebagai Minx (bahasa Korea: 밍스), adalah girl group yang dibentuk oleh HappyFace Entertainment.
                         Grup ini terdiri dari tujuh anggota, yakni JiU, SuA, Siyeon, Handong, Yoohyeon, Dami dan Gahyeon.</p>
